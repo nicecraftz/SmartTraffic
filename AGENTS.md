@@ -20,3 +20,6 @@ Quando incontri un bivio:
 1. Fermati immediatamente.
 2. Esponi chiaramente le opzioni disponibili con i relativi pro e contro.
 3. Poni una domanda diretta all'operatore per discutere e concordare la strada da intraprendere prima di generare l'ADR definitivo.
+
+# Istruzioni per il Commit
+Utilizza lo standard feat/fix/chore(module): text
